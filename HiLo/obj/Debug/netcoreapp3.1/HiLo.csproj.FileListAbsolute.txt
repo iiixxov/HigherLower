@@ -1,0 +1,14 @@
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\bin\Debug\netcoreapp3.1\HiLo.exe
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\bin\Debug\netcoreapp3.1\HiLo.deps.json
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\bin\Debug\netcoreapp3.1\HiLo.runtimeconfig.json
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\bin\Debug\netcoreapp3.1\HiLo.runtimeconfig.dev.json
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\bin\Debug\netcoreapp3.1\HiLo.dll
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\bin\Debug\netcoreapp3.1\HiLo.pdb
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.csproj.AssemblyReference.cache
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.AssemblyInfoInputs.cache
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.AssemblyInfo.cs
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.csproj.CoreCompileInputs.cache
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.dll
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.pdb
+D:\С#\fourth-edition-master\Code\Chapter_5\HiLo\HiLo\obj\Debug\netcoreapp3.1\HiLo.genruntimeconfig.cache
